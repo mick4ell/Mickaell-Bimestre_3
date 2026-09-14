@@ -1,2 +1,20 @@
 .color{color: white;}
 .colorb{color: black;}
+.btn-gow-send{
+  width: auto;
+  padding: 0.65rem 2.5rem;
+  display: inline-block;
+}
+footer{
+  background-color: #535151;
+  color: #fff;
+  padding: 1rem 0;
+  text-align: center;
+}
+img{
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  text-align: center;
+  height: auto;
+}
