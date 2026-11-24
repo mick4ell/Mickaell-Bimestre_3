@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
             alert("Por favor, preencha todos os campos antes de enviar.");
             return;
         }
-        alert(`Obrigado pelo contato, ${nome}! Sua mensagem sobre a trilogia foi enviada com sucesso.`);
+        alert(`Obrigado pelo contato, ${nome}! Sua mensagem foi enviada com sucesso.`);
         
         inputNome.value = "";
         inputEmail.value = "";
